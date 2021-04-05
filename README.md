@@ -8,3 +8,9 @@ Team Profiles utilizes JSON data and adds to the existing organized creations. O
 HTML( index. html ). The profiles are displayed as cards and are labeled based on employee position. 
 
 Be sure to ( npm i ) prior to starting the program. Once complete, open index.hmtl. 
+
+
+
+<img src="https://github.com/ward438/Team_Profiles/blob/main/screenshot.PNG" alt="Quiz Preview"
+width="1000px"/>
+
