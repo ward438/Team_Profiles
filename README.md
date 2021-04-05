@@ -7,7 +7,7 @@ based off of the employee category selected.
 Team Profiles utilizes JSON data and adds to the existing organized creations. Once the the program is finished, all of the data is collected and formatted to an 
 HTML( index. html ). The profiles are displayed as cards and are labeled based on employee position. 
 
-Be sure to ( npm i ) prior to starting the program. Once complete, open index.hmtl. 
+Be sure to ( npm i ) prior to starting the program to ensure all required dependencies are installed. Once complete, open index.hmtl. 
 
 
 
