@@ -47,7 +47,7 @@ class Manager {
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">Manager Name: ${this.name}</li>
-                    <li class="list-group-item">Email:<a href ='mailto: ${this.email}'>Contact</li>
+                    <li class="list-group-item">Email:<a href ='mailto: ${this.email}'>Contact</a></li>
                     <li class="list-group-item">Office number: ${this.number}</li>
                     <li class="list-group-item">ID: ${this.id}</li>                    
                 </ul>                

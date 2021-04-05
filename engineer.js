@@ -52,7 +52,7 @@ class Engineer {
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">Engineer Name: ${this.name}</li>
-                    <li class="list-group-item">Email:<a href ='mailto: ${this.email}'>Contact</li>
+                    <li class="list-group-item">Email:<a href ='mailto: ${this.email}'>Contact</a></li>
                     <li class="list-group-item">Github: <a href="https://github.com/${this.github}/">Github</a></li>
                     <li class="list-group-item">ID: ${this.id}</li>
                     <li class="list-group-item">Role: ${this.role}</li>                    
